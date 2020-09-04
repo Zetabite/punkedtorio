@@ -1,0 +1,12 @@
+{
+    "name": "punkedtorio",
+    "version": "0.1.0",
+    "title": "Punkedtorio",
+    "author": "Zetabite",
+    "factorio_version": "0.18",
+    "dependencies": [
+        "base >= 0.18"
+    ],
+    "description": "Stuff revolving around the Punk genre"
+  }
+  
